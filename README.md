@@ -1,4 +1,4 @@
-<img src="https://www.linkedin.com/in/webdeveloperzakir/" alt="Linkedin Pic">
+<img src="https://[www.linkedin.com/in/webdeveloperzakir/](https://www.linkedin.com/in/webdeveloperzakir/overlay/background-image/)" alt="Linkedin Pic">
 <h1 align="center">Hi 👋, I'm Mohammad Zakir Hossain</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
