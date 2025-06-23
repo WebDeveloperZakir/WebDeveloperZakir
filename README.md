@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **webdevzakir@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1enWhirLH2_OkVFytFjXxwK4cVBXCr1Og/edit?usp=drive_link&ouid=103874875100931971829&rtpof=true&sd=true](https://docs.google.com/document/d/1enWhirLH2_OkVFytFjXxwK4cVBXCr1Og/edit?usp=drive_link&ouid=103874875100931971829&rtpof=true&sd=true)
+- 📄 Know about my experiences [[https://docs.google.com/document/d/1enWhirLH2_OkVFytFjXxwK4cVBXCr1Og/edit?usp=drive_link&ouid=103874875100931971829&rtpof=true&sd=true](https://drive.google.com/file/d/1cCqkrcBwJIYoK6BazJdGs4zk7VZkTLBa/view?usp=drive_link)](https://docs.google.com/document/d/1enWhirLH2_OkVFytFjXxwK4cVBXCr1Og/edit?usp=drive_link&ouid=103874875100931971829&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
