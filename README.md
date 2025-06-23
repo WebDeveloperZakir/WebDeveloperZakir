@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQExykYzQof2bg/profile-displaybackgroundimage-shrink_350_1400/B4EZUxNkrmHcAY-/0/1740287397364?e=1746057600&v=beta&t=_ZJFR0SolNShd0LLbYsoozz7DNeeV7YHQCisjvviruc" alt="Linkedin Pic">
+<img src="https://drive.google.com/file/d/1-udun1cYhNAkIJfu1UYJBzPUp9cwwCKG/view"/>
 <h1 align="center">Hi 👋, I'm Mohammad Zakir Hossain</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
