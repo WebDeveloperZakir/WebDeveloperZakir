@@ -1,4 +1,4 @@
-<img src="[https://drive.google.com/file/d/1-udun1cYhNAkIJfu1UYJBzPUp9cwwCKG/view"](https://images.unsplash.com/photo-1709884732294-90379fee354c?q=80&w=928&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)/>
+<img src="https://images.unsplash.com/photo-1709884732294-90379fee354c?q=80&w=928&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"/>
 <h1 align="center">Hi 👋, I'm Mohammad Zakir Hossain</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
