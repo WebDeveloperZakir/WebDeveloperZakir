@@ -1,5 +1,4 @@
-https://i.postimg.cc/bJHXxRZR/Github-Back-cover3.png
-<img src="(https://i.postimg.cc/bJHXxRZR/Github-Back-cover3.png)/>
+<img src="https://i.postimg.cc/bJHXxRZR/Github-Back-cover3.png" alt="Pic">
 <h1 align="center">Hi 👋, I'm Mohammad Zakir Hossain</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
